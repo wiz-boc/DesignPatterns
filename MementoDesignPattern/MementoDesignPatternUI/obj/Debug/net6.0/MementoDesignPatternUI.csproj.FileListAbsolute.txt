@@ -1,0 +1,15 @@
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/bin/Debug/net6.0/MementoDesignPatternUI
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/bin/Debug/net6.0/MementoDesignPatternUI.deps.json
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/bin/Debug/net6.0/MementoDesignPatternUI.runtimeconfig.json
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/bin/Debug/net6.0/MementoDesignPatternUI.dll
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/bin/Debug/net6.0/MementoDesignPatternUI.pdb
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.csproj.AssemblyReference.cache
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.AssemblyInfoInputs.cache
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.AssemblyInfo.cs
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.csproj.CoreCompileInputs.cache
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.dll
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/refint/MementoDesignPatternUI.dll
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.pdb
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/MementoDesignPatternUI.genruntimeconfig.cache
+/Users/wizz/Library/Mobile Documents/com~apple~CloudDocs/Tutorials/DesignPattern/MementoDesignPattern/MementoDesignPatternUI/obj/Debug/net6.0/ref/MementoDesignPatternUI.dll

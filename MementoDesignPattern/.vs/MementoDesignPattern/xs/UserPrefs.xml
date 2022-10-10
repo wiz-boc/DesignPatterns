@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{208EEA0B-E2FE-4C8C-A651-51A5C36B6B57}|Default">
+  <MonoDevelop.Ide.ItemProperties.MementoDesignPatternUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MementoDesignPatternUI/Program.cs">
+    <Files>
+      <File FileName="MementoDesignPatternUI/Program.cs" Line="50" Column="1" />
+      <File FileName="MementoDesignPatternUI/Editor.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MementoDesignPattern" expanded="True">
+            <Node name="MementoDesignPatternUI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
